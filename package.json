@@ -1,0 +1,7 @@
+{
+  "name": "mattinstaller",
+  "branch": "main",
+  "dependencies": [
+    "mapi"
+  ]
+}
