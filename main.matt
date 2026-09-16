@@ -1,2 +1,4 @@
 def Saludar():
-  print("hola")
+  hola = matt.input("hola, dime tu nombre:")
+  print(f"hola {nombre}")
+end
